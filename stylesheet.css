@@ -1,13 +1,13 @@
 body {
    background-color: black;
    color: white;
-   font-size: 12px;
+   font-size: 20px;
    font-family: Helvetica, Arial, sans-serif;
 }
 img {
    border: 2px;
    margin: 10px auto;
-   width: 900px;
+   width: 700px;
 }
 ul.band_pictures {
    list-style: none;
@@ -16,7 +16,7 @@ ul.band_pictures {
    font-size: 30px;
 }
 h1 {
-   font-size: 120px;
+   font-size: 100px;
    color: green;
    text-align: center;
 }
