@@ -11,3 +11,8 @@ img {
   margin: 0;
   border: 0;
 }
+ol.band_pictures {
+  list-style: none;
+  margin-left: 10px;
+  padding-left: 20px;
+}
