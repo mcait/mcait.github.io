@@ -3,17 +3,17 @@ body {
    font-size: 12px;
    font-family: Helvetica, Arial, sans-serif;
 }
-div {
-   color: green;
-   font-size: 20px;
-}
 img {
-  margin: 0;
-  border: 0;
+   margin: 0;
+   border: 0;
 }
 ul.band_pictures {
-  list-style: none;
-  margin-left: 10px;
-  padding-left: 20px;
-  size: 30px;
+   list-style: none;
+   margin-left: 10px;
+   padding-left: 20px;
+   size: 30px;
+}
+h1 {
+   font-size: 20px;
+   color: green;
 }
