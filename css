@@ -1,5 +1,6 @@
 body {
-   color: black;
+   background-color: black;
+   color: white;
    font-size: 12px;
    font-family: Helvetica, Arial, sans-serif;
 }
@@ -11,7 +12,7 @@ ul.band_pictures {
    list-style: none;
    margin-left: 10px;
    padding-left: 20px;
-   size: 30px;
+   font-size: 30px;
 }
 h1 {
    font-size: 20px;
