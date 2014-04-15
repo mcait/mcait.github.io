@@ -3,11 +3,11 @@ body {
    font-size: 12px;
    font-family: Helvetica, Arial, sans-serif;
 }
-.pictures li {
-   display: inline;
-   margin: 3px;
-}
 div {
    color: green;
-   font-size: 20px
+   font-size: 20px;
+}
+img {
+  margin: 0;
+  border: 0;
 }
