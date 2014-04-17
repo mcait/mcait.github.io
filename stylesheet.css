@@ -12,9 +12,10 @@ header {
 }
 .title, .titleimage {
    display: inline-block;
+   text-align: center;
 }
 .titleimage img{
-   width: 600px;
+   width: 700px;
    text-align: center;
 }
 .title {
@@ -31,6 +32,7 @@ header {
 #resources li a {
    text-decoration: none;
    color: #e7e7e7;
+   text align: left;
 }
 img {
    border: 2px;
