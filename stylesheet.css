@@ -13,10 +13,7 @@ header {
 .title, .titleimage {
    display: inline-block;
 }
-.titleimage img {
-   border-radius: 20px;
-   height: 85px;
-}
+
 .title {
    margin: 20px 20px 0;
    vertical-align: top;
@@ -25,13 +22,12 @@ header {
    list-style: none;
    margin: 0;
    padding: 0
-   text-align: left;
 }
 #resources li {
    display: inline-block;
    padding: 10px;
    background-color: #3D5167;
-   text-align: left;
+   text-align: center;
 }
 #resources li a {
    text-decoration: none;
@@ -62,15 +58,5 @@ h2 {
 h3 {
    font-size: 30px;
    color: white;
-}
-right-box {
-  float: right;
-}
-top-line {
-  width: 100%;
-  height: 5px;
-  background-color: #2d183d;
-  border-bottom: 3px solid #eedffb;
-  margin-bottom: 10px;
 }
 
