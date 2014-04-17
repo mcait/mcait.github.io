@@ -25,6 +25,7 @@ header {
    list-style: none;
    margin: 0;
    padding: 0
+   text-align: left;
 }
 #resources li {
    display: inline-block;
@@ -35,6 +36,7 @@ header {
 #resources li a {
    text-decoration: none;
    color: #e7e7e7;
+   text-align: left;
 }
 img {
    border: 2px;
