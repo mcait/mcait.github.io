@@ -24,6 +24,22 @@ header {
    margin: 20px 20px 0;
    vertical-align: top;
 }
+#resources ul {
+   list-style: none;
+   margin: 0;
+   padding: 0;
+}
+#resources li {
+   display: inline-block;
+   padding: 10px;
+   background-color: #3D5167;
+   text-align: center;
+}
+#resources li a {
+   text-decoration: none;
+   color: #e7e7e7;
+}
+}
 img {
    border: 2px;
    margin: 10px auto;
