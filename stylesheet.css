@@ -4,6 +4,12 @@ body {
    font-size: 30px;
    font-family: Helvetica, Arial, sans-serif;
 }
+header {
+  background-color: #fdfdfc;
+  border-bottom: 1px solid #e7e6e6;
+  padding-top: 14px;
+  text-align: center;
+}
 img {
    border: 2px;
    margin: 10px auto;
@@ -39,3 +45,4 @@ top-line {
   border-bottom: 3px solid #eedffb;
   margin-bottom: 10px;
 }
+
