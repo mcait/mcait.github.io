@@ -14,8 +14,8 @@ header {
    display: inline-block;
 }
 .titleimage img {
-   border-radius: 70px;
-   height: 70px;
+   border-radius: 30px;
+   height: 85px;
 }
 .titleimage {
    padding-bottom: 10px;
@@ -33,7 +33,7 @@ header {
    display: inline-block;
    padding: 10px;
    background-color: #3D5167;
-   text-align: center;
+   text-align: left;
 }
 #resources li a {
    text-decoration: none;
