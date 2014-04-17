@@ -2,10 +2,10 @@ body {
    background-color: black;
    color: white;
    font-size: 30px;
-   font-family: Helvetica, Arial, sans-serif;
+   font-family: Arial, sans-serif;
 }
 header {
-  background-color: grey;
+  background-color: #450707;
   border-bottom: 1px solid #e7e6e6;
   padding-top: 14px;
   text-align: center;
@@ -14,20 +14,21 @@ header {
    display: inline-block;
 }
 .titleimage img {
-   border-radius: 30px;
+   border-radius: 20px;
    height: 85px;
 }
 .titleimage {
-   padding-bottom: 10px;
+   padding-bottom: 20px;
 }
 .title {
-   margin: auto;
+   margin: 15px 15px 0px;
    vertical-align: top;
 }
 #resources ul {
    list-style: none;
    margin: 0;
-   padding: 0;
+   padding: 0
+   text-align: center;
 }
 #resources li {
    display: inline-block;
