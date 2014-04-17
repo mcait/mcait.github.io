@@ -5,7 +5,7 @@ body {
    font-family: Helvetica, Arial, sans-serif;
 }
 header {
-  background-color: #fdfdfc;
+  background-color: grey;
   border-bottom: 1px solid #e7e6e6;
   padding-top: 14px;
   text-align: center;
@@ -14,8 +14,8 @@ header {
    display: inline-block;
 }
 .titleimage img {
-   border-radius: 45px;
-   height: 85px;
+   border-radius: 70px;
+   height: 70px;
 }
 .titleimage {
    padding-bottom: 10px;
