@@ -17,16 +17,17 @@ ul.band_pictures {
 }
 h1 {
    font-size: 100px;
-   color: green;
+   color: white;
    text-align: center;
 }
 h2 {
    text-align: center;
    font-size: 40px;
-   color: red;
+   color: white;
 }
 h3 {
    font-size: 30px;
+   color: green;
 }
 right-box {
   float: right;
