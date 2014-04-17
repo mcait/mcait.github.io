@@ -26,12 +26,10 @@ header {
    display: inline-block;
    padding: 10px;
    background-color: #3D5167;
-   text-align: left;
 }
 #resources li a {
    text-decoration: none;
    color: #e7e7e7;
-   text-align: left;
 }
 img {
    border: 2px;
