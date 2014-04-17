@@ -5,9 +5,9 @@ body {
    font-family: Arial, sans-serif;
 }
 header {
-  background-color: #450707;
+  background-color: black;
   border-bottom: 1px solid #e7e6e6;
-  padding-top: 14px;
+  padding-top: 20px;
   text-align: center;
 }
 .title, .titleimage {
@@ -17,18 +17,14 @@ header {
    border-radius: 20px;
    height: 85px;
 }
-.titleimage {
-   padding-bottom: 20px;
-}
 .title {
-   margin: 15px 15px 0px;
+   margin: 20px 20px 0;
    vertical-align: top;
 }
 #resources ul {
    list-style: none;
    margin: 0;
    padding: 0
-   text-align: center;
 }
 #resources li {
    display: inline-block;
