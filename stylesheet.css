@@ -1,8 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
 body {
    background-color: black;
    color: white;
-   font-size: 30px;
+   font-size: 50px;
    font-family: Arial, sans-serif;
+   margin: 0 auto;
 }
 header {
   background-color: black;
@@ -11,11 +17,11 @@ header {
 }
 .title, .titleimage {
    display: inline-block;
-   text-align: left;
+   text-align: center;
 }
 .titleimage img{
    width: 700px;
-   text-align: left;
+   text-align: center;
 }
 .titleimage {
   width: 400px;
